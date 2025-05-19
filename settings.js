@@ -21,10 +21,10 @@ MODE: process.env.MODE || "public",
         AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 
-        AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
+        AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
 // make true if you want auto reply on status 
 
-        AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY MALVIN XD 😆*",
+        AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*AMAIZING*",
 // set the auto reply massage on status reply  
 
 
@@ -62,10 +62,10 @@ MODE: process.env.MODE || "public",
           DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "26371475XXXX",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "255621384043",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
+OWNER_NAME: process.env.OWNER_NAME || "YOSAMKING",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || " *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
@@ -103,7 +103,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "263780166288",
+     DEV: process.env.DEV || "255621384043",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
